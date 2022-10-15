@@ -1,0 +1,3 @@
+[submodule "Ethernaut"]
+	path = Ethernaut
+	url = https://github.com/asparuhdamyanov/Ethernaut.git
