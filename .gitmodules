@@ -1,3 +1,6 @@
 [submodule "Ethernaut"]
 	path = Ethernaut
 	url = https://github.com/asparuhdamyanov/Ethernaut.git
+[submodule "damn-vulnerable-defi"]
+	path = damn-vulnerable-defi
+	url = https://github.com/asparuhdamyanov/damn-vulnerable-defi.git
